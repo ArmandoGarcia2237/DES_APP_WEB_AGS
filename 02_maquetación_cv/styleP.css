@@ -1,0 +1,21 @@
+body{
+    margin-left: 120px;
+    margin-right: 120px;
+    background-color: rgb(102, 144, 179);
+    font-family: 'Roboto', sans-serif;
+}
+
+.Princ{
+    margin-left: 120px;
+    margin-right: 120px;
+    background-color: white;
+}
+
+.return{
+    float: left;
+}
+
+.images{
+    float: left;
+    margin-left: 50px;
+}
